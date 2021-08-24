@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating amazing software projects 
 - 🌱 I’m currently learning Javascript React
 - 💞️ I’m looking to collaborate on OOP Software & Android Mobile Projects
-- 📫 How to reach me: Just add and send me a message on GitHub!
+- 📫 How to reach me: Coming Soon!
 
 <!---
 Ryomitch/Ryomitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
